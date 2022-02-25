@@ -1,10 +1,3 @@
 - 👋 Hi, I’m @LIONNOILLION
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+- 皇潮鼎宴太陽百匯buffet
 
-<!---
-move towards the dream
-LIONNOILLION/LIONNOILLION is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
